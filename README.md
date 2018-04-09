@@ -1,3 +1,3 @@
 # hello-world
 School Project Repos 1
-writing something here becuase the guide said to, not really change
+i am writing this becuase the guide said to this isnt really an edit.
